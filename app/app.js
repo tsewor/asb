@@ -1,0 +1,1 @@
+﻿var loanApp = angular.module('loanApp', ['ui.slider']);
